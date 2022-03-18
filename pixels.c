@@ -9,7 +9,7 @@
 	TODO a
 	Functia primeste ca parametru o imagine si intoarce imaginea rasturnata.
 	Prin imagine rasturnata se intelege inversarea liniilor matricei pix_array
-	din structura lui Picture, astfel: Linia 1 devine linia n, linia 2 devine
+	din structura lui Picture, astfel: Linia 1 devine linia n, linia 2 devine 
 	linia n - 1, etc.
 */
 
