@@ -7,7 +7,7 @@
 	n este dimensiunea array-ului
 	element_size este dimensiunea unui element din array
 	Se va parcurge vectorul arr, iar la fiecare iteratie sa va verifica
-	daca functia compare intoarce 1, caz in care elementul curent va fi
+	daca functia compare intoarce 1, caz in care elementul curent va fi 
 	si cel maxim.
 	Pentru a folosi corect aritmetica pe pointeri vom inmulti indexul curent
 	din parcurgere cu dimensiunea unui element.
