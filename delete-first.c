@@ -2,7 +2,7 @@
 #include <string.h>
 #include <stdlib.h>
 
-char* delete_first(char *s, char *pattern) {
+char* delete_first(char *s, char *pattern) { 
 	unsigned int i = 0;
 	int lens = strlen(s);
 	int len = strlen(pattern);
