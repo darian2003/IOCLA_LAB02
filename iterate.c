@@ -8,7 +8,7 @@
  */
 
 void octet1 ( int *n) {
-	int i = 0;
+	int i = 0; 
 	unsigned char *ptr = (unsigned char*)n;
 	for( i = 0; i < 4 ; i++) {
 		printf("%p -> 0x%x \n",ptr, *ptr);
